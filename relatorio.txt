@@ -1,0 +1,18 @@
+Relatorio Energetico - Werbeth Nunes
+========================================
+Nome: Werbeth Nunes
+Consumo Mensal (kWh): 440.0
+Valor da Conta (R$): 440.61
+
+Resultados:
+Emissao de CO2 (kg/mes): 102.52
+Numero de Paineis Necessarios para seu consumo: 11.0
+Economia Total em 25 anos, se comecar a utilizar Energia Solar (R$): 132183.00
+
+Beneficios de Utilizar Energia Solar:
+- Reducao significativa nos custos de energia eletrica.
+- Diminuicao na emissao de gases do efeito estufa (CO2).
+- Independencia da rede eletrica em casos de aumento tarifario.
+- Contribuicao para um futuro mais sustentavel e limpo.
+========================================
+
